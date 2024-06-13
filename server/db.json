@@ -1,0 +1,28 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "minh thu",
+            "address": "hà nội",
+            "phone": "09953",
+            "status": true,
+            "email": "thu@"
+        },
+        {
+            "id": 2,
+            "name": "tùng",
+            "address": "mù cang chải",
+            "phone": "0858",
+            "status": true,
+            "email": "tung@"
+        },
+        {
+            "id": 3,
+            "name": "hùng anh",
+            "address": "hà nam",
+            "phone": "08236",
+            "status": true,
+            "email": "hunganh@"
+        }
+    ]
+}
